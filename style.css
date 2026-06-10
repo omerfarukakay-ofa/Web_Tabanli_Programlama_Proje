@@ -1,0 +1,26 @@
+:root {
+    --pico-primary: #c89b3c;
+    --pico-primary-hover: #f0e6d2;
+    --pico-primary-focus: rgba(200, 155, 60, 0.25);
+}
+
+nav strong {
+    color: #c89b3c;
+}
+
+.grid article {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+table ins {
+    color: #0acb8b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+table del {
+    color: #e84057;
+    text-decoration: none;
+    font-weight: bold;
+}
