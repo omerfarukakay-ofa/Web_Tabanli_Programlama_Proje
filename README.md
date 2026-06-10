@@ -56,7 +56,7 @@ private $name = "lol_tracker";
 
 ## Tanıtım Videosu
 
-[YouTube / Google Drive bağlantısı buraya eklenecek]
+(https://youtube.com/shorts/I4PkePpjhKQ?feature=share)
 
 ## Geliştirici
 
